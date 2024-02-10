@@ -12,6 +12,9 @@ fun main() {
     println(weight)
 
     var citizen = "rwandan"
+
+    var fullname ="mutes"
+
     println(citizen)
 
 }
